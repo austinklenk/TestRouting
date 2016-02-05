@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Customer:</strong>
+  <%= @camper.customer_id %>
+</p>
+
+
+<p>
+  <strong>Company:</strong>
+  <%= @camper.company %>
+</p>
+
+<p>
+  <strong>Model:</strong>
+  <%= @camper.model %>
+</p>
+
+<p>
+  <strong>Year:</strong>
+  <%= @camper.year %>
+</p>
+
+<%= link_to 'Edit', edit_customer_camper_path(@customer, camper) %> |
+<%= link_to 'Back', :back %>

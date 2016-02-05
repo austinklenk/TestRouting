@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 1
+  date_in: MyString
+  date_out: MyString
+  notes: MyText
+
+two:
+  customer_id: 1
+  date_in: MyString
+  date_out: MyString
+  notes: MyText

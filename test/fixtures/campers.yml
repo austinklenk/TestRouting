@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 1
+  appointment_id: 1
+  company: MyString
+  model: MyString
+  year: MyString
+
+two:
+  customer_id: 1
+  appointment_id: 1
+  company: MyString
+  model: MyString
+  year: MyString

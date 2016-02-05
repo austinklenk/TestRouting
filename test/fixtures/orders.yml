@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 1
+  camper_id: 1
+  appointmet_id: 1
+  title: MyString
+  description: MyText
+
+two:
+  customer_id: 1
+  camper_id: 1
+  appointmet_id: 1
+  title: MyString
+  description: MyText
